@@ -1,4 +1,9 @@
-# blog
-用springboot开发的个人博客
-目前前端采用semantic ui
-前端主页基本完成2.17
+# 个人博客
+
+# 前端 sematic ui
+
+  后端SpringBoot框架采用javaweb+Thymeleaf+JPA+mysql+DevTools
+				
+				管理maven
+
+	

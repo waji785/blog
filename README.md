@@ -1,9 +1,12 @@
 # 个人博客
 
-# 前端 sematic ui
+# 前端 
+sematic ui
 
-  后端SpringBoot框架采用javaweb+Thymeleaf+JPA+mysql+DevTools
+# 后端
+SpringBoot；javaweb+Thymeleaf+JPA+mysql+DevTools
 				
-				管理maven
+# 管理
+maven
 
 	

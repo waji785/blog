@@ -65,6 +65,9 @@
     max-width: 72em !important;
     margin: auto !important;
 }
+.m-container-s{
+    margin: 10px 10px 10px 10px;
+}
 
 /*margin*/
 .m-margin-tb-tiny {
